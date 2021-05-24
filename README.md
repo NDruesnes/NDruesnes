@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dev web
 - 🌱 I’m currently learning html5, css3, javascript, php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> https://www.linkedin.com/in/nancy-druesnes/
 
 <!---
 NDruesnes/NDruesnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
